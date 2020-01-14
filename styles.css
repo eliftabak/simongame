@@ -79,6 +79,10 @@ h3,h4 {
   position: absolute;
   font-family: Roboto;
   border-radius: 3%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
   height: 590px;
   width: 700px;
   margin: 10px 250px;
