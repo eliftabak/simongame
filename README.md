@@ -1,4 +1,4 @@
-# SIMON GAME
+# SIMONGAME
 
 How to play:
 * Try to memorize the series of illuminated keys and reproduce it.
