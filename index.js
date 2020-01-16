@@ -81,6 +81,8 @@ function checkAnswer(currentLevel) {
   }
 }
 
+
+
 function nextSequence() {
 
   userClickedPattern = [];
@@ -98,6 +100,8 @@ function nextSequence() {
 
   playSound(randomChosenColour);
 }
+
+
 
 function playSound(name) {
   var audio = new Audio("sounds/" + name + ".mp3");
